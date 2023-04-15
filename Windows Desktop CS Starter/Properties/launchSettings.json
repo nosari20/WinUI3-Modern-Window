@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Windows Desktop CS Starter (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Windows Desktop CS Starter (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
